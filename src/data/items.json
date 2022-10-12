@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Sweater",
+        "price": 20.99,
+        "imgUrl": "/images/sweater.webp"
+    },
+    {
+        "id": 2,
+        "name": "Black Magic Cocktail",
+        "price": 22.00,
+        "imgUrl": "/images/blackmagic.webp"
+    },
+    {
+        "id": 3,
+        "name": "Gothic Necklace",
+        "price": 14.99,
+        "imgUrl": "/images/necklace.webp"
+    },
+    {
+        "id": 4,
+        "name": "Moonstone",
+        "price": 21.90,
+        "imgUrl": "/images/moonstone.webp"
+    }
+]
